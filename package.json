@@ -1,0 +1,16 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "Minimalistic Chat Room Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Mishra",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.0.4",
+    "mime": "^1.2.11",
+    "bluebird": "^2.0.2"
+  }
+}
